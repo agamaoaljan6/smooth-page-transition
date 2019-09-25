@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/agamaoaljan6/smooth-page-transition/issues"
   },
-  "homepage": "https://github.com/agamaoaljan6/smooth-page-transition#readme"
+  "homepage": "https://github.com/agamaoaljan6/smooth-page-transition#readme",
+  "devDependencies": {
+    "sass": "^1.22.12"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.1.3",
+    "gsap": "^2.1.3"
+  }
 }
